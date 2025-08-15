@@ -53,5 +53,3 @@ It contains details like:
 
 ---
 
-## 📊 Example Output
-**Elbow Method Plot:**
